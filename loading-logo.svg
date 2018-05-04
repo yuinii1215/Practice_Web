@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="loadingLogo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 42 19" style="enable-background:new 0 0 42 19;" xml:space="preserve">
 <style type="text/css">
+	body{
+	  padding: 1em;
+	  background: #fff;
+	  color: #777;
+	  text-align: center;
+	  font-family: "Gill sans", sans-serif;
+	  width: 40%;
+	  margin: 0 auto;
+	}
 	svg {
 
             stroke-dasharray: 0%, 150%;
@@ -15,18 +24,8 @@
             -moz-animation: first1 6s 0s ease-in-out alternate infinite;
             -webkit-animation: first1 6s 0s ease-in-out alternate infinite;
             animation: first1 6s 0s ease-in-out alternate infinite;
- }
-
-body{
-  padding: 1em;
-  background: #fff;
-  color: #777;
-  text-align: center;
-  font-family: "Gill sans", sans-serif;
-  width: 40%;
-  margin: 0 auto;
-}
-  svg .eye{
+ 	}
+  	svg .eye{
             -webkit-transform-origin:0 25%;
             -moz-transform-origin:0 25%;
             transform-origin:0 25%;
@@ -178,7 +177,6 @@ body{
                 fill: #5095c8;
             }
         }
-
 </style>
 <g>
 	<path class="st0" d="M12.3,4.9v2.8c0,0.5,0.4,0.8,0.8,0.8c0.5,0,0.8-0.4,0.8-0.8V4.9c0-1.4,1.1-2.5,2.5-2.5c1.4,0,2.5,1.1,2.5,2.5
